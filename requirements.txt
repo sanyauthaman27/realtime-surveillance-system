@@ -1,0 +1,10 @@
+flask
+ultralytics
+opencv-python
+numpy
+moviepy
+reportlab
+nltk
+scikit-image
+tqdm
+werkzeug
